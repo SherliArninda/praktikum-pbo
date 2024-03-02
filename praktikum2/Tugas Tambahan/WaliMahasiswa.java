@@ -1,6 +1,6 @@
-//   Nama      : Sherli Arninda
+// Nama      : Sherli Arninda
 // NIM       : 24060122120028
-// Tanggal   : 
+// Tanggal   : 2 Maret 2024
 // Deskripsi : Kelas yang berisi program class walimahasiswa
 
 public class WaliMahasiswa{
