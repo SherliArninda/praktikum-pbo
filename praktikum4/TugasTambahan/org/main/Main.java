@@ -1,6 +1,6 @@
 // Nama      : Sherli Arninda
 // NIM       : 24060122120028
-// Tanggal   : 16 Maret 2024
+// Tanggal   : 19 Maret 2024
 // Deskripsi : Kelas yang berisi progam utama untuk mengaplikasikan class Mahasiswa dan WaliMahasiswa
 
 package org.main;
